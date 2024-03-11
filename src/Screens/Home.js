@@ -8,6 +8,8 @@ import AllMovieCard from '../Components/AllMovieCard'
 import { useDispatch, useSelector } from 'react-redux';
 import { setAllMovies } from '../Redux/Slice/MovieSlice';
 
+
+
 const Home = () => {
 
 
